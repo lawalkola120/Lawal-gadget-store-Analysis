@@ -28,9 +28,9 @@ This project analyzes sales data from a gadget store to uncover insights about r
 	-	Customer revenue breakdown table
 	-	Interactive filters for product category and customer segment
 
-  ## Preview
+  ## image
   https://github.com/lawalkola120/Lawal-gadget-store-Analysis/blob/main/Screenshot%202025-11-29%20060136.png
   
-  > Click the image above to see a preview of the Dashboard.
+  > Click the image above to see a image of the Dashboard.
 ## Lawal-gadget-store-Analysis
 This repo contains a Gadget store analysis project done on Power BI
